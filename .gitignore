@@ -53,6 +53,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+## GameMaker Cache
+/cache
+
+## Ignore GMLive Files/Folders
+**/GMLive*
+**/obj_gmlive
  
 # GameMaker temporary files
 *.resource_order
