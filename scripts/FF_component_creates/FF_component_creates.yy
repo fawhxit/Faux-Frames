@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FF_component_creates",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FF_component_creates",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
